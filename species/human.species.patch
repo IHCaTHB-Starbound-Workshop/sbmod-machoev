@@ -1,0 +1,4 @@
+[{"op":"add","path":"/genders/0/shirt/-","value":""},
+{"op":"add","path":"/genders/1/shirt/-","value":""},
+{"op":"add","path":"/genders/0/pants/-","value":""},
+{"op":"add","path":"/genders/1/pants/-","value":""}]
